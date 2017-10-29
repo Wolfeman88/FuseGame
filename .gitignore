@@ -11,3 +11,9 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.bat
+*.log
+*.obb
+*.apk
+*.java*.xml
+*.png
