@@ -17,3 +17,6 @@ Saved
 *.apk
 *.java*.xml
 *.png
+*.properties
+*.xml
+*.java
