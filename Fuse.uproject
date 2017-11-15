@@ -10,6 +10,24 @@
 			"LoadingPhase": "Default"
 		}
 	],
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		},
+		{
+			"Name": "UObjectPlugin",
+			"Enabled": false
+		}
+	],
 	"AdditionalPluginDirectories": [
 		"Intermediate/Plugins"
 	]
